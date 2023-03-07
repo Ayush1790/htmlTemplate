@@ -4,8 +4,10 @@ body{
 #footer__para1{
     float: left;
     width: 49%;
+    text-align: justify;
 }
 #footer__para2{
     float: right;
     width: 49%;
+    text-align: justify;
 }
