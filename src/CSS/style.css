@@ -1,0 +1,11 @@
+body{
+    padding: 50px;
+}
+#footer__para1{
+    float: left;
+    width: 49%;
+}
+#footer__para2{
+    float: right;
+    width: 49%;
+}
